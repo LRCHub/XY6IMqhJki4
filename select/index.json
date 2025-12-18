@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "A New Start",
+  "base_artist": "Nanashi Mumei",
+  "createdAt": "2025-12-18T03:32:33.668320Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A New Start",
+      "artist": "Nanashi Mumei",
+      "has_synced": true,
+      "path": "select/01_A_New_Start_Nanashi_Mumei.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Looking For A New Start",
+      "artist": "Loving Caliber",
+      "has_synced": true,
+      "path": "select/02_Looking_For_A_New_Start_Loving_Caliber.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tomorrow Is a New Start",
+      "artist": "Soledad O'Brien",
+      "has_synced": true,
+      "path": "select/03_Tomorrow_Is_a_New_Start_Soledad_O'Brien.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tomorrow Is a New Start (interlude)",
+      "artist": "Soledad O’Brien",
+      "has_synced": true,
+      "path": "select/04_Tomorrow_Is_a_New_Start_(interlude)_Soledad_O’Brien.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A New Start",
+      "artist": "Morgoth",
+      "has_synced": false,
+      "path": "select/05_A_New_Start_Morgoth.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Burning (For a New Start)",
+      "artist": "Josin",
+      "has_synced": false,
+      "path": "select/06_Burning_(For_a_New_Start)_Josin.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A New Start",
+      "artist": "Andrew Lipke",
+      "has_synced": true,
+      "path": "select/07_A_New_Start_Andrew_Lipke.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "A New Start",
+      "artist": "Lipke, Andrew",
+      "has_synced": true,
+      "path": "select/08_A_New_Start_Lipke,_Andrew.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "A New Start",
+      "artist": "Nosound",
+      "has_synced": false,
+      "path": "select/09_A_New_Start_Nosound.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A New Start",
+      "artist": "Sarah Lancman",
+      "has_synced": false,
+      "path": "select/10_A_New_Start_Sarah_Lancman.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "A New Start",
+      "artist": "Nanashi Mumei",
+      "has_synced": false,
+      "path": "select/pl_01_A_New_Start_Nanashi_Mumei.txt"
+    }
+  ]
+}
